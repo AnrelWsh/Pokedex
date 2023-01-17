@@ -1,5 +1,7 @@
 # OptiSkuu : Pokédex
 
+En groupe nous avons réalisé un poké dex à l'aide de l'api PokéApi. Nous avons utilisé prinicipalement du JS pour l'affichage ainsi que CSS et Tailwind pour la partie style.
+
 ## Fonctionnalités :
 
 * Pokedex 
